@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Eclipse IDE - run configuration for tests
 
 = Eclipse IDE - run configuration for tests =
 
