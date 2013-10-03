@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+
+= Eclipse IDE - run configuration for tests =
+
+== VM arguments ==
+
+  -Djava.library.path=${workspace_loc}/rtlsdrj/lib
+  -Xcheck:jni
+
+== Environment variables ==
+
+  PATH=${workspace_loc}/rtlsdrj/lib;%PATH%
