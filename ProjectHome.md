@@ -1,0 +1,1 @@
+It wraps all rtl-sdr exports in to JNI calls and makes them available in a Java class, named de.rtlsdr.RtlDevice
